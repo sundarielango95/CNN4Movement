@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+# trained models, lesion index files and activations are large: keep them out of git
+*.h5
+*.pkl
+activations_*.txt
